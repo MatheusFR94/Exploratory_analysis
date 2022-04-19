@@ -1,2 +1,3 @@
 # Exploratory_analysis
-Exemplo de análise exploratória de dados. Example of exploratory analysis.
+Análise exploratória de índices de custo de vida extraídos do Kaggle e do site Numbeo. Link: https://www.kaggle.com/datasets/ankanhore545/cost-of-living-index-2022?select=Cost_of_Living_Index_2022.csv
+Exploratory analysis of living cost indexes dataset from Kaggle and Numbeo.
